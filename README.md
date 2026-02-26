@@ -1,7 +1,7 @@
 # 📊 Data Analytics Portfolio
 
 ## Project: Walmart Sales Performance Analysis
-
+Welcome to my data analytics project. This is where i will showcase my ability to gather data and clean it up for better interpretation and to get information.
 ### 📌 Overview
 This project analyzes Walmart branch sales performance using Excel pivot tables and data visualization techniques.
 
